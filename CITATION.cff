@@ -1,8 +1,9 @@
-CITATION.cff
-cff-version 1.1.0
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Carrillo"
   given-names: "Bruno"
-title: "Voronoi-Based Planned Robotic Motion"
+title: "Voronoi-Based-Planned-Robotic-Motion"
+version: 1.0.0
+date-released: 2025-05-06
 url: "https://github.com/brunocar004/Voronoi-Based-Planned-Robotic-Motion"
