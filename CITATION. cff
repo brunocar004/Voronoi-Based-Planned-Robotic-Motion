@@ -1,0 +1,7 @@
+cff-version 1.1.0
+
+authors:
+- family-names: "Carrillo"
+  given-names: "Bruno"
+title: "Voronoi-Based Planned Robotic Motion"
+url: "https://github.com/brunocar004/Voronoi-Based-Planned-Robotic-Motion"
